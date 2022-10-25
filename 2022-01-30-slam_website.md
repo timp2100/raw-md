@@ -1,0 +1,7 @@
+- [OpenSLAM](https://openslam-org.github.io/)
+- [旋转表达方式转换](https://www.andre-gaschler.com/rotationconverter/)
+- [非线性方程在线求解](https://www.codesansar.com/numerical-methods/fixed-point-iteration-method-online-calculator.htm)
+- [ORB-SLAM1](https://www.webofscience.com/wos/alldb/full-record/WOS:000364504400006)，[ORB-SLAM2](https://www.webofscience.com/wos/alldb/full-record/WOS:000412235700019)，[ORB-SLAM3](https://www.webofscience.com/wos/alldb/full-record/WOS:000725804900006)
+- [深蓝学院](https://www.shenlanxueyuan.com/)
+- [浙大CVG](http://www.zjucvg.net/)
+- 布树辉老师：[主页](https://teacher.nwpu.edu.cn/bushuhui)，[Gitee](https://gitee.com/bushuhui)，[个人站](http://www.adv-ci.com/blog/)
